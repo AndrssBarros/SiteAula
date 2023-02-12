@@ -1,0 +1,24 @@
+body{
+  background-color: #ADD8E6;
+}
+
+a:link{
+  color: none;
+}
+
+div{
+  background-color: rgb(112, 187, 184);padding: 5px;
+}
+
+ul,h1{
+  list-style: none;
+  text-align: center;
+
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
